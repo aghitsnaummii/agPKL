@@ -1,0 +1,28 @@
+body{
+	background:#e9edc9;
+	font-family: ;
+}
+h2{
+	color: #003049;
+	font-family: ;
+}
+
+.login{
+	padding: 1cm;
+	margin: 2cm auto;
+	width: 8cm;
+	background: #b5c99a;
+	border-radius: 3px;
+}
+
+input [type = "text"],
+input [type = "password"],
+textarea {
+	padding: 8px;
+	width: 90%;
+	background: #606c38;
+	border: 0;
+	font-size: 10pt;
+	margin: 6px 0px;
+
+}
